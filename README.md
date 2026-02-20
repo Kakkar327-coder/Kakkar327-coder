@@ -1,16 +1,104 @@
-## Hi there 👋
+# Hi 👋, I'm Kavya Kakkar
 
-<!--
-**Kakkar327-coder/Kakkar327-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Product Engineering Student at SGT University (Kalvium Program)   
+🚀 Aspiring Software Development Engineer (FAANG Level)  
+📚 Currently in 2nd Semester  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Pursuing Integrated Software Product Engineering at SGT University with Kalvium
+- 💡 Passionate about building scalable web applications (Frontend + Backend)
+- 🌱 Currently strengthening **Data Structures & Algorithms**
+- ⚡ Interested in **Backend Systems, Frontend Development, and Problem Solving**
+- 🗄️ Experienced in CRUD operations using **MongoDB Atlas & Compass**
+- 🎯 Goal: Become a Software Development Engineer at FAANG-level companies
+
+---
+
+## 🚀 Tech Stack
+
+### 👨‍💻 Programming Languages
+- Python
+- C++
+- Java (Basic)
+- JavaScript
+
+### 🌐 Web Development (MERN Stack)
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB (Atlas & Compass)
+
+### 🔐 Backend & Security
+- JWT Authentication
+- Password Hashing
+- REST APIs
+- CRUD Operations
+
+### 🛠️ Tools & Technologies
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+- 🎮 [Whack A Mole Game](PASTE_LINK) — Interactive browser game using JavaScript
+- 🦖 [Dino Game](PASTE_LINK) — Chrome Dino game clone
+- ❌⭕ [Tic Tac Toe Game](PASTE_LINK) — Logic-based game with UI interactions
+- 🌦️ [Weather App](PASTE_LINK) — Weather dashboard using API integration
+- 🌐 [Developer Portfolio Website](PASTE_LINK) — Personal portfolio project
+- 🛒 [Full Stack E-Commerce App](PASTE_LINK) — MERN stack application
+
+---
+
+## ❤️ Interests
+
+- Backend Development
+- Frontend Development
+- Data Structures & Algorithms
+- Database Design
+- Problem Solving
+- System Design
+- Open Source Contributions
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- System Design Fundamentals
+- Full Stack Development Best Practices
+- Open Source Contributions
+
+---
+
+## 📊 GitHub Stats
+
+![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kakkar327-coder&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakkar327-coder&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kakkar327-coder&theme=tokyonight)
+
+---
+
+## 🏆 Open Source Goal
+
+I am actively looking to contribute to open-source projects and prepare for **Google Summer of Code (GSoC)**.
+
+If you have beginner-friendly issues or collaboration opportunities, feel free to connect!
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 GitHub: https://github.com/Kakkar327-coder
+- 📧 Email: kavyakakkar327@gmail.com
+
+---
+
+⭐ From Kakkar327-coder
