@@ -46,12 +46,11 @@
 
 ## 📂 Projects
 
-- 🎮 [Whack A Mole Game](PASTE_LINK) — Interactive browser game using JavaScript
-- 🦖 [Dino Game](PASTE_LINK) — Chrome Dino game clone
-- ❌⭕ [Tic Tac Toe Game](PASTE_LINK) — Logic-based game with UI interactions
-- 🌦️ [Weather App](PASTE_LINK) — Weather dashboard using API integration
+- 🎮 [Whack A Mole Game](https://github.com/Kakkar327-coder/whack_a_mole.git) — Interactive browser game using JavaScript
+- 🦖 [Dino Game](https://github.com/Kakkar327-coder/Dino_Game-.git) — Chrome Dino game clone
+- ❌⭕ [Tic Tac Toe Game](https://github.com/Kakkar327-coder/tic_tac_toe.git) — Logic-based game with UI interactions
+- 🌦️ [Weather App](https://github.com/Kakkar327-coder/weather_fetcher_python.git) — Weather dashboard using API integration
 - 🌐 [Developer Portfolio Website](PASTE_LINK) — Personal portfolio project
-- 🛒 [Full Stack E-Commerce App](PASTE_LINK) — MERN stack application
 
 ---
 
