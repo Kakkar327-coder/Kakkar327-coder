@@ -50,7 +50,7 @@
 - 🦖 [Dino Game](https://github.com/Kakkar327-coder/Dino_Game-.git) — Chrome Dino game clone
 - ❌⭕ [Tic Tac Toe Game](https://github.com/Kakkar327-coder/tic_tac_toe.git) — Logic-based game with UI interactions
 - 🌦️ [Weather App](https://github.com/Kakkar327-coder/weather_fetcher_python.git) — Weather dashboard using API integration
-- 🌐 [Developer Portfolio Website](PASTE_LINK) — Personal portfolio project
+- 🌐 [Developer Portfolio Website](https://github.com/Kakkar327-coder/portfolio_website.git) — Personal portfolio project
 
 ---
 
@@ -76,10 +76,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kakkar327-coder&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakkar327-coder&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kakkar327-coder&theme=tokyonight)
 
