@@ -77,12 +77,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kakkar327-coder&theme=tokyonight)
-
----
-
 ## 🏆 Open Source Goal
 
 I am actively looking to contribute to open-source projects and prepare for **Google Summer of Code (GSoC)**.
