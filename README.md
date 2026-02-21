@@ -48,7 +48,7 @@
 ## 📂 Projects
 
 - 🎮 [Whack A Mole Game](https://github.com/Kakkar327-coder/whack_a_mole.git) — Interactive browser game using JavaScript
-- 🌐 [Daily Task Manager](https://github.com/Kakkar327-coder/daily_task_manager.git) — Personal portfolio project
+- 🌐 [Daily Task Manager](https://github.com/Kakkar327-coder/daily_task_manager.git) — Daily Task Manager project
 - 🦖 [Dino Game](https://github.com/Kakkar327-coder/Dino_Game-.git) — Chrome Dino game clone
 - ❌⭕ [Tic Tac Toe Game](https://github.com/Kakkar327-coder/tic_tac_toe.git) — Logic-based game with UI interactions
 - 🌦️ [Weather App](https://github.com/Kakkar327-coder/weather_fetcher_python.git) — Weather dashboard using API integration
